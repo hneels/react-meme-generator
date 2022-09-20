@@ -2,7 +2,7 @@
 ## [Hosted on Netlify](https://hneels-react-meme-generator.netlify.app/)
 
 
-<img src="./src/images/screenshot.png" width="300px" alt="screenshot">
+<img src="./src/images/screenshot.png" width="400px" alt="screenshot">
 
 My third mini-project for the [Scrimba React Course](https://scrimba.com/learn/learnreact). Based on [this Figma design](https://www.figma.com/file/MoLwFPHNHJVrzdFurxHzNV/Meme-Generator).
 
